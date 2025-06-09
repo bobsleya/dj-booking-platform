@@ -1,5 +1,4 @@
 # DJ/VJ Booking Platform
-
 Professional booking platform for DJs and VJs with real-time features.
 
 ## Project Structure
